@@ -1,0 +1,12 @@
+{
+  "name": "familyexpenses",
+  "version": "1.0.0",
+  "description": "An app to track family member\\'s expenses",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/shahfazliz/familyexpenses.git",
+    "type": "git"
+  },
+  "author": "Shahfazliz Shahron",
+  "license": "MIT"
+}
